@@ -125,26 +125,25 @@ Analyzed seasonal variations in toll collections and vehicle flow.
 
 # Insights
 
-From the Banking Dashboard, the following insights can be drawn:
+### Karnataka contributes 57% of total toll revenue.
 
-### \[1] Transaction Patterns
+### C-103 plaza generates the highest revenue at ₹459K.
 
-* Highest number of transactions were observed in **Q4 months**.
-* **Transfer transactions** contribute the largest share compared to deposits/withdrawals.
+### 11% of toll plazas reported zero revenue, requiring further investigation.
 
-### \[2] Account Insights
+### Monthly analysis shows fluctuating traffic trends due to seasonal factors.
 
-* **Savings and Current accounts** hold equal balance share.
+### Average toll per vehicle varies widely by vehicle type and state.
 
-### \[3] Customer Demographics
 
-* Majority of customers belong to the **36–50 age group**.
-* Customer base is almost evenly split by gender, with slightly higher male representation.
 
-### \[4] High-Value Customers
 
-* Top 2 customers contribute significantly higher transaction values compared to average customers.
 
----
+### 🧑‍💻 Author
 
-give me in this process and add I was used excel too
+Jadhav Akshay Kumar
+B.Tech in Electronics & Communication Engineering
+Indian Institute of Technology (ISM) Dhanbad
+|📧 Email
+| 🌐 LinkedIn
+ 
