@@ -117,7 +117,7 @@ Analyzed seasonal variations in toll collections and vehicle flow.
 
 # Snapshots of Dashboard (Power BI Desktop)
 
-![Page1](https://github.com/user-attachments/assets/429d129e-a92c-4acd-973d-0f8bda3eedf8)
+![Page1](https://github.com/Akshayjadhav04/Fastag-Fraud-Detection/blob/12d0d8466b508ce0bbf1291b46d3c98f06f29184/Analysis%20of%20Indian%20Highway%20Toll%20Collection%20dashboard-1.png)
 
 ![Page2](https://github.com/Akshayjadhav04/Fastag-Fraud-Detection/blob/629ddf0005ea94b1f63efc4e646e3dfe1cbb4003/Analysis%20of%20Indian%20Highway%20Toll%20Collection%20dashboard-2.png)
 
