@@ -121,7 +121,9 @@ Analyzed seasonal variations in toll collections and vehicle flow.
 
 ![Page2](https://github.com/Akshayjadhav04/Fastag-Fraud-Detection/blob/629ddf0005ea94b1f63efc4e646e3dfe1cbb4003/Analysis%20of%20Indian%20Highway%20Toll%20Collection%20dashboard-2.png)
 
-![Page2](https://github.com/Akshayjadhav04/Fastag-Fraud-Detection/blob/1b034060b17f81254163a78a642103d3a0e609aa/Analysis%20of%20Indian%20Highway%20Toll%20Collection%20dashboard-3.png)
+![Page3](https://github.com/Akshayjadhav04/Fastag-Fraud-Detection/blob/1b034060b17f81254163a78a642103d3a0e609aa/Analysis%20of%20Indian%20Highway%20Toll%20Collection%20dashboard-3.png)
+
+![Page4](https://github.com/Akshayjadhav04/Fastag-Fraud-Detection/blob/4b4febdd1dd69abb15c069943ea8c468a7b3e10c/Analysis%20of%20Indian%20Highway%20Toll%20Collection%20dashboard-4.png)
 
 ---
 
